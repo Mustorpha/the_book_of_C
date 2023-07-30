@@ -1,0 +1,11 @@
+# ignore all vscode settings file
+.vscode/
+
+#ignore all GCC compilers output
+*exe
+*o
+*c
+*s
+
+#ignore my test program
+test.c
