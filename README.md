@@ -1,3 +1,3 @@
 # The Book of C
 This repository contains my challenge codes, preliminary and test code for my C program
-Before i deploy them
+Before I deploy them
